@@ -1,6 +1,6 @@
 # Reverse-of-integer
 
-Given a 32-bit signed integer, reverse digits of an integer.
+By this C++ program we can reverse the 32-bit signed integer
 
 Example 1:
 
